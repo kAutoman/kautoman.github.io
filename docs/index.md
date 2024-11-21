@@ -5,7 +5,7 @@ XOPS using pulumi with python
 <pre class="mermaid">
   sequenceDiagram
     Alice->>John: Hello John, how are you?
-    John-->>Alice: Great!
+    John-->>Alice: Great
     Alice-)John: See you later!
 </pre>
 <script> mermaid.initialize({ startOnLoad: true }); </script>
